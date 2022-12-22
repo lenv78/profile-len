@@ -1,0 +1,14 @@
+nav {
+    float: right;
+    background-color: #f3f3f3;
+    padding: 20px;
+    margin: 10px;
+}
+
+nav a:hover {
+    background-color: #ffffff;
+}
+
+nav a {
+    border-right: 1px solid #000000;
+}
