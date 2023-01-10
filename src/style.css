@@ -12,3 +12,9 @@ nav a:hover {
 nav a {
     border-right: 1px solid #000000;
 }
+
+img {
+    display: block;
+    border-radius: 50%;
+    width: 150px;
+}
